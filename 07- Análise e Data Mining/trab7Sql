@@ -1,0 +1,47 @@
+VIEW UTILIZADAS
+CREATE OR REPLACE VIEW analiseFilme AS select idfilme as id, avg(nota) as media, count(idfilme) as qtvotos, stddev(nota) as DesvioPadrao from avaliapessoafilme group by idfilme
+CREATE OR REPLACE VIEW analiseArtista AS select idartista as id, avg(nota) as media, count(idartista) as qtvoto, stddev(nota) as DesvioPadrao from avaliapessoartistasmusicasis group by idartista
+
+Qual é a média e desvio padrão dos ratings para artistas musicais e filmes?
+	select idfilme as id, avg(nota) as  Média, stddev(nota) as Desvio_Padrão from avaliapessoafilme group by idfilme
+	select idartista as id, avg(nota) as  Média, stddev(nota) as Desvio_Padrão from avaliapessoaartistasmusicais group by idartista
+------------------------------------------------------------------------------------------------------
+Quais são os artistas e filmes com o maior rating médio curtidos por pelo menos duas pessoas? Ordenados
+por rating médio.
+	select id, media from analiseFilme where qtvotos >=2 order by media desc
+	select id, media from analiseArtista where qtvotos >=2 order by media desc
+-------------------------------------------------------------------------------------------------------
+Quais são os 10 artistas musicais e filmes mais populares? Ordenados por popularidade.
+	select nome, voto from analiseFilme order by qtvotos desc limit 10
+	select nome, voto from analiseArtista order by qtvotos desc limit 10
+-------------------------------------------------------------------------------------------------------
+Crie uma view chamada ConheceNormalizada que represente simetricamente os relacionamentos de conhecidos da turma. Por exemplo, se a conhece b mas b não declarou conhecer a, a view criada deve conter o relacionamento (b,a) além de (a,b).
+	create or replace view conhecenormalizada as select login, loginconhecido from pessoaconhecepessoa union select loginconhecido, login from pessoaconhecepessoa
+			 
+					  	
+-------------------------------------------------------------------------------------------------------
+Quais são os conhecidos (duas pessoas ligadas na view ConheceNormalizada) que compartilham o maior
+numero de filmes curtidos?
+
+    CREATE or replace view pessoacfilme AS  SELECT avaliapessoafilme.login, count(avaliapessoafilme.login) AS conta FROM avaliapessoafilme GROUP BY avaliapessoafilme.login;
+
+    create or replace view somados 2 as select a1.login, a1.loginconhecido, a2.conta+a3.conta as soma from conhecenormalizada as a1 inner join pessoaCfilme as a2 on a1.login = a2.login inner join pessoaCfilme as a3 on a1.loginconhecido=a3.login;
+
+    select login, loginconhecido, soma from somados2 where soma = (select max(soma) from somados2);
+-------------------------------------------------------------------------------------------------------
+Qual o número de conhecidos dos conhecidos (usando ConheceNormalizada) para cada integrante do seu grupo?
+
+create view conhecidoVictor as select loginconhecido from conhecenormalizada where login like 'DI1802victormenuzzo'
+select loginconhecido, count(loginconhecido) from conhecenormalizada natural join conhecidoVictor group by loginconhecido
+
+tem q fazer isso pro shoiti e pro daniel, acho que resolve com or
+-------------------------------------------------------------------------------------------------------
+Construa um gráfico para a função f(x) = (número de pessoas que curtiram exatamente x filmes).
+
+select conta as qtdefilme, count(login) as qtpessoa from pessoaCfilme group by conta order by conta 
+-------------------------------------------------------------------------------------------------------
+Construa um gráfico para a função f(x) = (número de filmes curtidos por exatamente x pessoas).
+select count as nfilme, count(count) as npessoa from nfilme group by count order by nfilme
+-------------------------------------------------------------------------------------------------------
+Defina duas outras informações (como as anteriores) que seriam úteis para compreender melhor a rede. Agregue estas informações à sua aplicação.
+

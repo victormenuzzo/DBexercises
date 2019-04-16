@@ -1,0 +1,52 @@
+CREATE OR REPLACE VIEW analiseartista AS 
+ SELECT avaliapessoaartistasmusicais.idartista AS id, avg(avaliapessoaartistasmusicais.nota) AS media, count(avaliapessoaartistasmusicais.idartista) AS qtvoto, stddev(avaliapessoaartistasmusicais.nota) AS desviopadrao
+   FROM avaliapessoaartistasmusicais
+  GROUP BY avaliapessoaartistasmusicais.idartista;
+  
+CREATE OR REPLACE VIEW analisefilme AS 
+ SELECT avaliapessoafilme.idfilme AS id, avg(avaliapessoafilme.nota) AS media, count(avaliapessoafilme.idfilme) AS qtvotos, stddev(avaliapessoafilme.nota) AS desviopadrao
+   FROM avaliapessoafilme
+  GROUP BY avaliapessoafilme.idfilme;
+  
+CREATE OR REPLACE VIEW conhecemais AS 
+ SELECT pessoaconhecepessoa.login, count(pessoaconhecepessoa.loginconhecido) AS count
+   FROM pessoaconhecepessoa
+  GROUP BY pessoaconhecepessoa.login;
+  
+CREATE OR REPLACE VIEW conhecenormalizada AS 
+         SELECT pessoaconhecepessoa.login, pessoaconhecepessoa.loginconhecido
+           FROM pessoaconhecepessoa
+UNION 
+         SELECT pessoaconhecepessoa.loginconhecido AS login, pessoaconhecepessoa.login AS loginconhecido
+           FROM pessoaconhecepessoa;
+           
+CREATE OR REPLACE VIEW conhecidodaniel AS 
+ SELECT conhecenormalizada.loginconhecido
+   FROM conhecenormalizada
+  WHERE conhecenormalizada.login::text ~~ 'DI1802danielvieira'::text;
+
+CREATE OR REPLACE VIEW conhecidoshoiti AS 
+ SELECT conhecenormalizada.loginconhecido
+   FROM conhecenormalizada
+  WHERE conhecenormalizada.login::text ~~ 'DI1802lucastakahashi'::text;
+  
+CREATE OR REPLACE VIEW conhecidovictor AS 
+ SELECT conhecenormalizada.loginconhecido
+   FROM conhecenormalizada
+  WHERE conhecenormalizada.login::text ~~ 'DI1802victormenuzzo'::text;
+
+CREATE OR REPLACE VIEW nfilme AS 
+ SELECT count(avaliapessoafilme.idfilme) AS count
+   FROM avaliapessoafilme
+  GROUP BY avaliapessoafilme.idfilme;
+
+CREATE OR REPLACE VIEW pessoacfilme AS 
+ SELECT avaliapessoafilme.login, count(avaliapessoafilme.login) AS conta
+   FROM avaliapessoafilme
+  GROUP BY avaliapessoafilme.login;
+
+CREATE OR REPLACE VIEW somados2 AS 
+ SELECT a1.login, a1.loginconhecido, a2.conta + a3.conta AS soma
+   FROM conhecenormalizada a1
+   JOIN pessoacfilme a2 ON a1.login::text = a2.login::text
+   JOIN pessoacfilme a3 ON a1.loginconhecido::text = a3.login::text;

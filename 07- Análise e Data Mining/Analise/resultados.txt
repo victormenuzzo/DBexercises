@@ -1,0 +1,820 @@
+
+
+
+
+
+Questao 1
+Aperte o numero do exercicio desejado (1 - 10): 
+Filme					Media			DesPAD
+http://www.imdb.com/title/tt0133093/	4.428571			0.6462062
+http://www.imdb.com/title/tt0338564/	4.0			0.0
+http://www.imdb.com/title/tt0070047/	4.0			1.0
+http://www.imdb.com/title/tt1136608/	3.6666667			1.5275252
+http://www.imdb.com/title/tt1201607/	4.3333335			0.8164966
+http://www.imdb.com/title/tt0103064/	4.0			1.4142135
+http://www.imdb.com/title/tt0114709/	4.5			0.70710677
+http://www.imdb.com/title/tt0071562/	4.6666665			0.57735026
+http://www.imdb.com/title/tt1375666/	4.625			0.51754916
+http://www.imdb.com/title/tt0050986/	5.0			0.0
+http://www.imdb.com/title/tt0209144/	5.0			0.0
+http://www.imdb.com/title/tt0317248/	5.0			0.0
+http://www.imdb.com/title/tt1049413/	4.5			0.70710677
+http://www.imdb.com/title/tt0068646/	4.142857			1.4638501
+http://www.imdb.com/title/tt0211915/	5.0			0.0
+http://www.imdb.com/title/tt0382932/	3.8333333			0.9831921
+http://www.imdb.com/title/tt1220719/	3.0			0.0
+http://www.imdb.com/title/tt0108052/	4.5			0.70710677
+http://www.imdb.com/title/tt0111161/	3.5			0.70710677
+http://www.imdb.com/title/tt0372784/	3.5			0.57735026
+http://www.imdb.com/title/tt0075148/	4.3333335			1.1547005
+http://www.imdb.com/title/tt0110912/	4.818182			0.40451992
+http://www.imdb.com/title/tt1345836/	4.6666665			0.57735026
+http://www.imdb.com/title/tt0338013/	5.0			0.0
+http://www.imdb.com/title/tt0110413/	5.0			0.0
+http://www.imdb.com/title/tt1675434/	5.0			0.0
+http://www.imdb.com/title/tt0910970/	4.25			0.70710677
+http://www.imdb.com/title/tt0137523/	4.25			1.0
+http://www.imdb.com/title/tt0167261/	4.857143			0.37796447
+http://www.imdb.com/title/tt0047478/	4.0			0.0
+http://www.imdb.com/title/tt0180093/	5.0			0.0
+http://www.imdb.com/title/tt0364569/	5.0			0.0
+http://www.imdb.com/title/tt0120586/	2.5			2.1213202
+http://www.imdb.com/title/tt0101414/	3.0			0.0
+http://www.imdb.com/title/tt0434409/	4.0			1.0
+http://www.imdb.com/title/tt0268978/	5.0			0.0
+http://www.imdb.com/title/tt0325980/	3.6666667			1.5275252
+http://www.imdb.com/title/tt0107290/	5.0			0.0
+http://www.imdb.com/title/tt1853728/	4.75			0.46291006
+http://www.imdb.com/title/tt0758758/	4.5			0.70710677
+http://www.imdb.com/title/tt0172495/	5.0			0.0
+http://www.imdb.com/title/tt0114369/	4.5			0.70710677
+http://www.imdb.com/title/tt0266697/	4.0			0.8164966
+http://www.imdb.com/title/tt0361748/	5.0			0.0
+http://www.imdb.com/title/tt0435761/	4.428571			0.7867958
+http://www.imdb.com/title/tt0080684/	4.6666665			0.5
+http://www.imdb.com/title/tt0266543/	4.0			1.0
+http://www.imdb.com/title/tt0109830/	4.75			0.5
+http://www.imdb.com/title/tt0903624/	4.5			0.70710677
+http://www.imdb.com/title/tt0198781/	3.6			1.1401755
+http://www.imdb.com/title/tt0088247/	1.0			0.0
+http://www.imdb.com/title/tt0169547/	5.0			0.0
+http://www.imdb.com/title/tt0078748/	5.0			0.0
+http://www.imdb.com/title/tt0105236/	3.5			2.1213202
+http://www.imdb.com/title/tt0088763/	5.0			0.0
+http://www.imdb.com/title/tt0095327/	5.0			0.0
+http://www.imdb.com/title/tt0167260/	4.3333335			0.9847319
+http://www.imdb.com/title/tt0071853/	5.0			0.0
+http://www.imdb.com/title/tt0082971/	4.0			1.4142135
+http://www.imdb.com/title/tt0796366/	2.6666667			2.081666
+http://www.imdb.com/title/tt0034583/	1.0			0.0
+http://www.imdb.com/title/tt0078788/	2.0			0.0
+http://www.imdb.com/title/tt0440963/	4.0			0.0
+http://www.imdb.com/title/tt0096283/	4.5			0.70710677
+http://www.imdb.com/title/tt0468569/	4.428571			0.5345225
+http://www.imdb.com/title/tt0454876/	3.6666667			1.1547005
+http://www.imdb.com/title/tt0081505/	4.0			1.4142135
+http://www.imdb.com/title/tt0045152/	3.5			0.70710677
+http://www.imdb.com/title/tt0120737/	4.6			0.8944272
+http://www.imdb.com/title/tt0848228/	4.0			1.0
+http://www.imdb.com/title/tt0245429/	4.3333335			0.57735026
+http://www.imdb.com/title/tt0110357/	4.5			1.0
+http://www.imdb.com/title/tt0097576/	3.75			1.2583058
+http://www.imdb.com/title/tt0120382/	3.0			0.0
+http://www.imdb.com/title/tt1130884/	5.0			0.0
+http://www.imdb.com/title/tt0246578/	4.6666665			0.57735026
+http://www.imdb.com/title/tt0099685/	5.0			0.0
+http://www.imdb.com/title/tt0401792/	5.0			0.0
+http://www.imdb.com/title/tt0947798/	5.0			0.0
+http://www.imdb.com/title/tt0086250/	5.0			0.0
+http://www.imdb.com/title/tt0076759/	3.6666667			1.4142135
+http://www.imdb.com/title/tt0075314/	5.0			0.0
+http://www.imdb.com/title/tt0086190/	4.0			1.0
+http://www.imdb.com/title/tt0062622/	5.0			0.0
+http://www.imdb.com/title/tt0102926/	5.0			0.0
+
+ARTISTA					MEDIA						DESVPAD
+https://en.wikipedia.org/wiki/Infected_Mushroom	4.0				0.0
+https://en.wikipedia.org/wiki/Lindsey_Stirling	5.0				0.0
+https://en.wikipedia.org/wiki/Coldplay	3.5				0.70710677
+https://en.wikipedia.org/wiki/Alcione_Nazareth	5.0				0.0
+https://en.wikipedia.org/wiki/O_Rappa	4.0				0.0
+https://en.wikipedia.org/wiki/Molejo	5.0				0.0
+https://en.wikipedia.org/wiki/Arcade_Fire	5.0				0.0
+https://en.wikipedia.org/wiki/Green_Day	2.0				0.0
+https://en.wikipedia.org/wiki/Lamb_of_God_(band)	4.0				0.0
+https://en.wikipedia.org/wiki/Dire_Straits	4.0				0.0
+https://en.wikipedia.org/wiki/Lorde	4.75				0.5
+https://en.wikipedia.org/wiki/Fort_Minor	4.0				0.0
+https://en.wikipedia.org/wiki/The_Voidz	5.0				0.0
+https://en.wikipedia.org/wiki/Avicii	3.0				0.0
+https://en.wikipedia.org/wiki/Pitty	5.0				0.0
+https://en.wikipedia.org/wiki/Beyonc%C3%A9	5.0				0.0
+https://en.wikipedia.org/wiki/Hillsong_Worship	5.0				0.0
+https://en.wikipedia.org/wiki/Tool_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Dinosaur_Jr.	4.0				0.0
+https://en.wikipedia.org/wiki/Ray_Charles	4.0				0.0
+https://en.wikipedia.org/wiki/Sepultura	5.0				0.0
+https://en.wikipedia.org/wiki/Snow_Patrol	5.0				0.0
+https://en.wikipedia.org/wiki/Muse_(band)	4.0				1.4142135
+https://en.wikipedia.org/wiki/Rise_Against	5.0				0.0
+https://en.wikipedia.org/wiki/Carach_Angren	3.0				0.0
+https://en.wikipedia.org/wiki/Survivor_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Demi_Lovato	5.0				0.0
+https://en.wikipedia.org/wiki/C%C3%A1ssia_Eller	3.0				0.0
+https://en.wikipedia.org/wiki/Neutral_Milk_Hotel	5.0				0.0
+https://en.wikipedia.org/wiki/Unleash_the_Archers	5.0				0.0
+https://en.wikipedia.org/wiki/The_Strokes	5.0				0.0
+https://en.wikipedia.org/wiki/Led_Zeppelin	3.75				1.8929695
+https://en.wikipedia.org/wiki/Dream_Theater	4.0				0.0
+https://en.wikipedia.org/wiki/Michel_Tel%C3%B3	1.0				0.0
+https://en.wikipedia.org/wiki/Gorillaz	4.0				1.4142135
+https://en.wikipedia.org/wiki/Criolo	5.0				0.0
+https://en.wikipedia.org/wiki/Burzum	5.0				0.0
+https://en.wikipedia.org/wiki/Bruno_Mars	3.0				0.0
+https://en.wikipedia.org/wiki/Mariah_Carey	4.0				0.0
+https://en.wikipedia.org/wiki/Raul_Seixas	4.0				0.0
+https://en.wikipedia.org/wiki/U2	3.0				0.0
+https://en.wikipedia.org/wiki/The_Maine_(band)	4.5				0.70710677
+https://en.wikipedia.org/wiki/Ra%C3%A7a_Negra	5.0				0.0
+https://en.wikipedia.org/wiki/Roupa_Nova	3.0				0.0
+https://en.wikipedia.org/wiki/Rhapsody_of_Fire	5.0				0.0
+https://en.wikipedia.org/wiki/Black_Sabbath	4.5				0.70710677
+https://en.wikipedia.org/wiki/The_Black_Keys	4.0				0.0
+https://en.wikipedia.org/wiki/Rammstein	4.6				0.5477226
+https://en.wikipedia.org/wiki/Novos_Baianos	5.0				0.0
+https://en.wikipedia.org/wiki/Racionais_MC%27s	5.0				0.0
+https://en.wikipedia.org/wiki/Tears_for_Fears	3.0				0.0
+https://en.wikipedia.org/wiki/Jay-Z	3.0				0.0
+https://en.wikipedia.org/wiki/Alt-J	4.5				0.70710677
+https://en.wikipedia.org/wiki/Johnny_Cash	5.0				0.0
+https://en.wikipedia.org/wiki/Pearl_Jam	4.5				0.70710677
+https://en.wikipedia.org/wiki/Megadeth	4.0				1.4142135
+https://en.wikipedia.org/wiki/The_Ting_Tings	5.0				0.0
+https://en.wikipedia.org/wiki/Charlie_Brown_Jr.	4.0				0.0
+https://en.wikipedia.org/wiki/S%C3%B3lstafir	5.0				0.0
+https://en.wikipedia.org/wiki/50_Cent	5.0				0.0
+https://en.wikipedia.org/wiki/Legi%C3%A3o_Urbana	3.0				1.4142135
+https://en.wikipedia.org/wiki/Mystery_Skulls	4.0				0.0
+https://en.wikipedia.org/wiki/Shawn_Mendes	3.0				0.0
+https://en.wikipedia.org/wiki/Nando_Reis	4.0				0.0
+https://en.wikipedia.org/wiki/David_Bowie	4.0				0.0
+https://en.wikipedia.org/wiki/Britney_Spears	3.0				0.0
+https://en.wikipedia.org/wiki/N.W.A	5.0				0.0
+https://en.wikipedia.org/wiki/X_Ambassadors	5.0				0.0
+https://en.wikipedia.org/wiki/Akon	3.0				0.0
+https://en.wikipedia.org/wiki/Flume_(musician)	5.0				0.0
+https://en.wikipedia.org/wiki/System_of_a_Down	4.5				0.83666
+https://en.wikipedia.org/wiki/Avenged_Sevenfold	3.6666667				0.57735026
+https://en.wikipedia.org/wiki/Capital_Inicial	2.5				2.1213202
+https://en.wikipedia.org/wiki/Massacration	5.0				0.0
+https://en.wikipedia.org/wiki/NSYNC	4.0				0.0
+https://en.wikipedia.org/wiki/Pentatonix	3.0				0.0
+https://en.wikipedia.org/wiki/Antonio_Vivaldi	5.0				0.0
+https://en.wikipedia.org/wiki/Rend_Collective	4.0				0.0
+https://en.wikipedia.org/wiki/Angra_(band)	4.0				0.0
+https://en.wikipedia.org/wiki/Natiruts	5.0				0.0
+https://en.wikipedia.org/wiki/Eminem	4.6666665				0.57735026
+https://en.wikipedia.org/wiki/Juliano_Son	5.0				0.0
+https://en.wikipedia.org/wiki/Michael_Jackson	4.5				0.70710677
+https://en.wikipedia.org/wiki/Falconer_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Guns_N%27_Roses	4.5				0.57735026
+https://en.wikipedia.org/wiki/The_Killers	4.0				0.0
+https://en.wikipedia.org/wiki/Cannibal_Corpse	3.0				0.0
+https://en.wikipedia.org/wiki/AC/DC	5.0				0.0
+https://en.wikipedia.org/wiki/The_Notorious_B.I.G.	4.5				0.70710677
+https://en.wikipedia.org/wiki/Ferdinando_Carulli	4.0				0.0
+https://en.wikipedia.org/wiki/Alestorm	5.0				0.0
+https://en.wikipedia.org/wiki/Sonata_Arctica	4.0				0.0
+https://en.wikipedia.org/wiki/The_Prodigy	4.0				0.0
+https://en.wikipedia.org/wiki/Maroon_5	4.0				0.0
+https://en.wikipedia.org/wiki/The_Smiths	3.5				0.70710677
+https://en.wikipedia.org/wiki/Egoist_(band)	4.0				0.0
+https://en.wikipedia.org/wiki/Nirvana_(band)	4.0				0.8164966
+https://en.wikipedia.org/wiki/Gnarls_Barkley	4.0				0.0
+https://en.wikipedia.org/wiki/Backstreet_Boys	5.0				0.0
+https://en.wikipedia.org/wiki/Arctic_Monkeys	3.0				0.0
+https://en.wikipedia.org/wiki/Nicole_Dollanganger	5.0				0.0
+https://en.wikipedia.org/wiki/Jesus_Culture	5.0				0.0
+https://en.wikipedia.org/wiki/Epica_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Pantera	5.0				0.0
+https://en.wikipedia.org/wiki/Rush_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Lana_Del_Rey	4.0				0.0
+https://en.wikipedia.org/wiki/Manowar	4.0				0.0
+https://en.wikipedia.org/wiki/Helloween	5.0				0.0
+https://en.wikipedia.org/wiki/Outkast	4.0				0.0
+https://en.wikipedia.org/wiki/Mot%C3%B6rhead	3.0				0.0
+https://en.wikipedia.org/wiki/Little_Joy	5.0				0.0
+https://en.wikipedia.org/wiki/Santiano_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Skank_(band)	4.0				0.0
+https://en.wikipedia.org/wiki/Linkin_Park	3.875				0.6408699
+https://en.wikipedia.org/wiki/Death_(metal_band)	5.0				0.0
+https://en.wikipedia.org/wiki/Bon_Jovi	4.5				0.70710677
+https://en.wikipedia.org/wiki/Paramore	3.0				0.0
+https://en.wikipedia.org/wiki/Lacuna_Coil	4.0				0.0
+https://en.wikipedia.org/wiki/Perturbator	4.0				0.0
+https://en.wikipedia.org/wiki/Exaltasamba	5.0				0.0
+https://en.wikipedia.org/wiki/Sia_(musician)	4.0				0.0
+https://en.wikipedia.org/wiki/Kaleo_(band)	4.0				0.0
+https://en.wikipedia.org/wiki/Carpenter_Brut	5.0				0.0
+https://en.wikipedia.org/wiki/Sabotage_(rapper)	5.0				0.0
+https://en.wikipedia.org/wiki/Rouge_(pop_group)	3.6666667				1.1547005
+https://en.wikipedia.org/wiki/Ludwig_van_Beethoven	5.0				0.0
+https://en.wikipedia.org/wiki/David_Guetta	3.0				0.0
+https://en.wikipedia.org/wiki/Justin_Bieber	3.0				0.0
+https://en.wikipedia.org/wiki/Ana_Carolina	3.0				0.0
+https://en.wikipedia.org/wiki/Baroness_(band)	2.0				0.0
+https://en.wikipedia.org/wiki/Tupac_Shakur	4.5				0.70710677
+https://en.wikipedia.org/wiki/Heidevolk	5.0				0.0
+https://en.wikipedia.org/wiki/Daft_Punk	4.0				1.7320508
+https://en.wikipedia.org/wiki/My_Chemical_Romance	5.0				0.0
+https://en.wikipedia.org/wiki/Edvard_Grieg	3.0				0.0
+https://en.wikipedia.org/wiki/Glass_Animals	4.0				0.0
+https://en.wikipedia.org/wiki/Amazarashi	4.0				0.0
+https://en.wikipedia.org/wiki/Pink_(singer)	4.0				0.0
+https://en.wikipedia.org/wiki/Beastie_Boys	4.0				0.0
+https://en.wikipedia.org/wiki/Queen_(band)	3.75				1.5
+https://en.wikipedia.org/wiki/Drake_(musician)	5.0				0.0
+https://en.wikipedia.org/wiki/Ed_Sheeran	4.6666665				0.57735026
+https://en.wikipedia.org/wiki/OneRepublic	4.0				0.0
+https://en.wikipedia.org/wiki/Foo_Fighters	5.0				0.0
+https://en.wikipedia.org/wiki/Mamonas_Assassinas	4.0				0.0
+https://en.wikipedia.org/wiki/Iron_Maiden	4.25				0.9574271
+https://en.wikipedia.org/wiki/Banda_U%C3%B3	4.0				0.0
+https://en.wikipedia.org/wiki/The_Beatles	4.5				1.0
+https://en.wikipedia.org/wiki/Mastodon_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Lauren_Daigle	3.0				0.0
+https://en.wikipedia.org/wiki/Scorpions_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Donald_Glover	4.0				0.0
+https://en.wikipedia.org/wiki/Kendrick_Lamar	4.5				0.70710677
+https://en.wikipedia.org/wiki/Justice_(band)	4.0				0.0
+https://en.wikipedia.org/wiki/Slayer	4.0				0.0
+https://en.wikipedia.org/wiki/Amon_Amarth	4.0				0.0
+https://en.wikipedia.org/wiki/Kasabian	4.0				0.0
+https://en.wikipedia.org/wiki/Zakk_Wylde	5.0				0.0
+https://en.wikipedia.org/wiki/Ensiferum	5.0				0.0
+https://en.wikipedia.org/wiki/Amy_Winehouse	5.0				0.0
+https://en.wikipedia.org/wiki/Anitta_(singer)	2.5				0.57735026
+https://en.wikipedia.org/wiki/J._Cole	3.0				0.0
+https://en.wikipedia.org/wiki/Alexander_Cardinale	4.0				0.0
+https://en.wikipedia.org/wiki/Falamansa	5.0				0.0
+https://en.wikipedia.org/wiki/Metallica	4.8333335				0.4082483
+https://en.wikipedia.org/wiki/Marcelo_D2	5.0				0.0
+https://en.wikipedia.org/wiki/Fall_Out_Boy	4.0				1.0
+https://en.wikipedia.org/wiki/Nujabes	4.0				0.0
+https://en.wikipedia.org/wiki/The_Protomen	5.0				0.0
+https://en.wikipedia.org/wiki/Mumford_%26_Sons	4.0				0.0
+https://en.wikipedia.org/wiki/Twenty_One_Pilots	4.5				0.70710677
+https://en.wikipedia.org/wiki/Ghost_(Swedish_band)	4.5				0.70710677
+https://en.wikipedia.org/wiki/Janis_Joplin	5.0				0.0
+https://en.wikipedia.org/wiki/Aerosmith	4.0				0.0
+https://en.wikipedia.org/wiki/Shakira	5.0				0.0
+https://en.wikipedia.org/wiki/Panic!_at_the_Disco	5.0				0.0
+https://en.wikipedia.org/wiki/The_Civil_Wars	5.0				0.0
+https://en.wikipedia.org/wiki/Simple_Plan	3.0				2.828427
+https://en.wikipedia.org/wiki/Two_Door_Cinema_Club	5.0				0.0
+https://en.wikipedia.org/wiki/Fear_Factory	5.0				0.0
+https://en.wikipedia.org/wiki/Farofa	5.0				0.0
+https://en.wikipedia.org/wiki/The_Roots	4.0				0.0
+https://en.wikipedia.org/wiki/Pabllo_Vittar	3.0				0.0
+https://en.wikipedia.org/wiki/The_Kooks	4.0				1.4142135
+https://en.wikipedia.org/wiki/Avril_Lavigne	3.0				0.0
+https://en.wikipedia.org/wiki/Dr._Dre	5.0				0.0
+https://en.wikipedia.org/wiki/Imagine_Dragons	4.428571				0.97590005
+https://en.wikipedia.org/wiki/Vintage_Culture	5.0				0.0
+https://en.wikipedia.org/wiki/Oasis	5.0				0.0
+https://en.wikipedia.org/wiki/Mr._Catra	1.0				0.0
+https://en.wikipedia.org/wiki/Secondhand_Serenade	4.0				0.0
+https://en.wikipedia.org/wiki/The_Cranberries	4.0				0.0
+https://en.wikipedia.org/wiki/Khemmis_(band)	5.0				0.0
+https://en.wikipedia.org/wiki/Lily_Allen	4.0				0.0
+
+
+
+
+
+Questao 2
+Aperte o numero do exercicio desejado (1 - 10): 
+filme				media
+http://www.imdb.com/title/tt0338013/	5.0
+http://www.imdb.com/title/tt0172495/	5.0
+http://www.imdb.com/title/tt0062622/	5.0
+http://www.imdb.com/title/tt0209144/	5.0
+http://www.imdb.com/title/tt0086250/	5.0
+http://www.imdb.com/title/tt0088763/	5.0
+http://www.imdb.com/title/tt0211915/	5.0
+http://www.imdb.com/title/tt0169547/	5.0
+http://www.imdb.com/title/tt0361748/	5.0
+http://www.imdb.com/title/tt0110413/	5.0
+http://www.imdb.com/title/tt0167261/	4.857143
+http://www.imdb.com/title/tt0110912/	4.818182
+http://www.imdb.com/title/tt0109830/	4.75
+http://www.imdb.com/title/tt1853728/	4.75
+http://www.imdb.com/title/tt1345836/	4.6666665
+http://www.imdb.com/title/tt0071562/	4.6666665
+http://www.imdb.com/title/tt0246578/	4.6666665
+http://www.imdb.com/title/tt0080684/	4.6666665
+http://www.imdb.com/title/tt1375666/	4.625
+http://www.imdb.com/title/tt0120737/	4.6
+http://www.imdb.com/title/tt0096283/	4.5
+http://www.imdb.com/title/tt0114709/	4.5
+http://www.imdb.com/title/tt1049413/	4.5
+http://www.imdb.com/title/tt0108052/	4.5
+http://www.imdb.com/title/tt0758758/	4.5
+http://www.imdb.com/title/tt0114369/	4.5
+http://www.imdb.com/title/tt0903624/	4.5
+http://www.imdb.com/title/tt0110357/	4.5
+http://www.imdb.com/title/tt0435761/	4.428571
+http://www.imdb.com/title/tt0468569/	4.428571
+http://www.imdb.com/title/tt0133093/	4.428571
+http://www.imdb.com/title/tt0245429/	4.3333335
+http://www.imdb.com/title/tt0075148/	4.3333335
+http://www.imdb.com/title/tt1201607/	4.3333335
+http://www.imdb.com/title/tt0167260/	4.3333335
+http://www.imdb.com/title/tt0910970/	4.25
+http://www.imdb.com/title/tt0137523/	4.25
+http://www.imdb.com/title/tt0068646/	4.142857
+http://www.imdb.com/title/tt0081505/	4.0
+http://www.imdb.com/title/tt0434409/	4.0
+http://www.imdb.com/title/tt0086190/	4.0
+http://www.imdb.com/title/tt0103064/	4.0
+http://www.imdb.com/title/tt0266697/	4.0
+http://www.imdb.com/title/tt0266543/	4.0
+http://www.imdb.com/title/tt0082971/	4.0
+http://www.imdb.com/title/tt0070047/	4.0
+http://www.imdb.com/title/tt0848228/	4.0
+http://www.imdb.com/title/tt0382932/	3.8333333
+http://www.imdb.com/title/tt0097576/	3.75
+http://www.imdb.com/title/tt1136608/	3.6666667
+http://www.imdb.com/title/tt0076759/	3.6666667
+http://www.imdb.com/title/tt0454876/	3.6666667
+http://www.imdb.com/title/tt0325980/	3.6666667
+http://www.imdb.com/title/tt0198781/	3.6
+http://www.imdb.com/title/tt0045152/	3.5
+http://www.imdb.com/title/tt0105236/	3.5
+http://www.imdb.com/title/tt0111161/	3.5
+http://www.imdb.com/title/tt0372784/	3.5
+http://www.imdb.com/title/tt0796366/	2.6666667
+http://www.imdb.com/title/tt0120586/	2.5
+artista musical							media
+https://en.wikipedia.org/wiki/Sabotage_(rapper)			5.0
+https://en.wikipedia.org/wiki/Alestorm			5.0
+https://en.wikipedia.org/wiki/AC/DC			5.0
+https://en.wikipedia.org/wiki/Fear_Factory			5.0
+https://en.wikipedia.org/wiki/Racionais_MC%27s			5.0
+https://en.wikipedia.org/wiki/Arcade_Fire			5.0
+https://en.wikipedia.org/wiki/Metallica			4.8333335
+https://en.wikipedia.org/wiki/Lorde			4.75
+https://en.wikipedia.org/wiki/Ed_Sheeran			4.6666665
+https://en.wikipedia.org/wiki/Eminem			4.6666665
+https://en.wikipedia.org/wiki/Rammstein			4.6
+https://en.wikipedia.org/wiki/Tupac_Shakur			4.5
+https://en.wikipedia.org/wiki/Alt-J			4.5
+https://en.wikipedia.org/wiki/The_Notorious_B.I.G.			4.5
+https://en.wikipedia.org/wiki/Pearl_Jam			4.5
+https://en.wikipedia.org/wiki/Bon_Jovi			4.5
+https://en.wikipedia.org/wiki/The_Beatles			4.5
+https://en.wikipedia.org/wiki/Black_Sabbath			4.5
+https://en.wikipedia.org/wiki/Guns_N%27_Roses			4.5
+https://en.wikipedia.org/wiki/The_Maine_(band)			4.5
+https://en.wikipedia.org/wiki/System_of_a_Down			4.5
+https://en.wikipedia.org/wiki/Ghost_(Swedish_band)			4.5
+https://en.wikipedia.org/wiki/Twenty_One_Pilots			4.5
+https://en.wikipedia.org/wiki/Kendrick_Lamar			4.5
+https://en.wikipedia.org/wiki/Michael_Jackson			4.5
+https://en.wikipedia.org/wiki/Imagine_Dragons			4.428571
+https://en.wikipedia.org/wiki/Iron_Maiden			4.25
+https://en.wikipedia.org/wiki/Fall_Out_Boy			4.0
+https://en.wikipedia.org/wiki/O_Rappa			4.0
+https://en.wikipedia.org/wiki/Lamb_of_God_(band)			4.0
+https://en.wikipedia.org/wiki/Muse_(band)			4.0
+https://en.wikipedia.org/wiki/Gorillaz			4.0
+https://en.wikipedia.org/wiki/Mariah_Carey			4.0
+https://en.wikipedia.org/wiki/Megadeth			4.0
+https://en.wikipedia.org/wiki/Charlie_Brown_Jr.			4.0
+https://en.wikipedia.org/wiki/Nando_Reis			4.0
+https://en.wikipedia.org/wiki/Nirvana_(band)			4.0
+https://en.wikipedia.org/wiki/Skank_(band)			4.0
+https://en.wikipedia.org/wiki/Perturbator			4.0
+https://en.wikipedia.org/wiki/Sia_(musician)			4.0
+https://en.wikipedia.org/wiki/Daft_Punk			4.0
+https://en.wikipedia.org/wiki/Justice_(band)			4.0
+https://en.wikipedia.org/wiki/The_Kooks			4.0
+https://en.wikipedia.org/wiki/Linkin_Park			3.875
+https://en.wikipedia.org/wiki/Queen_(band)			3.75
+https://en.wikipedia.org/wiki/Led_Zeppelin			3.75
+https://en.wikipedia.org/wiki/Rouge_(pop_group)			3.6666667
+https://en.wikipedia.org/wiki/Avenged_Sevenfold			3.6666667
+https://en.wikipedia.org/wiki/Coldplay			3.5
+https://en.wikipedia.org/wiki/The_Smiths			3.5
+https://en.wikipedia.org/wiki/Legi%C3%A3o_Urbana			3.0
+https://en.wikipedia.org/wiki/Cannibal_Corpse			3.0
+https://en.wikipedia.org/wiki/Simple_Plan			3.0
+https://en.wikipedia.org/wiki/Anitta_(singer)			2.5
+https://en.wikipedia.org/wiki/Capital_Inicial			2.5
+https://en.wikipedia.org/wiki/Mr._Catra			1.0
+
+
+
+
+
+Questao 3
+Aperte o numero do exercicio desejado (1 - 10): 
+filme				curtidas
+http://www.imdb.com/title/tt0137523/	16
+http://www.imdb.com/title/tt0133093/	14
+http://www.imdb.com/title/tt0167260/	12
+http://www.imdb.com/title/tt0110912/	11
+http://www.imdb.com/title/tt0076759/	9
+http://www.imdb.com/title/tt0080684/	9
+http://www.imdb.com/title/tt0910970/	8
+http://www.imdb.com/title/tt1853728/	8
+http://www.imdb.com/title/tt1375666/	8
+http://www.imdb.com/title/tt0068646/	7
+artista				curtidas
+https://en.wikipedia.org/wiki/Linkin_Park	8
+https://en.wikipedia.org/wiki/Imagine_Dragons	7
+https://en.wikipedia.org/wiki/System_of_a_Down	6
+https://en.wikipedia.org/wiki/Metallica	6
+https://en.wikipedia.org/wiki/Rammstein	5
+https://en.wikipedia.org/wiki/Guns_N%27_Roses	4
+https://en.wikipedia.org/wiki/Nirvana_(band)	4
+https://en.wikipedia.org/wiki/Queen_(band)	4
+https://en.wikipedia.org/wiki/Led_Zeppelin	4
+https://en.wikipedia.org/wiki/Lorde	4
+
+
+
+
+
+Questao 4
+Aperte o numero do exercicio desejado (1 - 10): 
+pessoa1		$t	pessoa2
+DI1802annabucharles	DI1802lucasrech
+DI1802annabucharles	DI1802evertonoliveira
+DI1802annabucharles	DI1802mateusgomes
+DI1802joaosilva	DI1802vivianebonfim
+DI1802wagneragostinho	DI1802alexandrematias
+DI1802nortonjunior	DI1802ericwada
+DI1802alexandrematias	DI1802giulianasilva
+DI1802giulianasilva	DI1802juliopenha
+DI1802pedrosplendore	DI1802marcostholken
+DI1802vivianebonfim	DI1802heronfernandez
+DI1802matheusoliveira	DI1802alexandrematias
+DI1802vivianebonfim	DI1802matheusoliveira
+DI1802damonoliniski	DI1802alexandrematias
+DI1802nicolebotine	DI1802evertonoliveira
+DI1802cassiomorales	DI1802henriqueoliveira
+DI1802alexandrematias	DI1802ericwada
+DI1802damonoliniski	DI1802matheuscosta
+DI1802matheusoliveira	DI1802matheuscosta
+DI1802juliopenha	DI1802joaosilva
+DI1802heronfernandez	DI1802matheuscosta
+DI1802nicolebotine	DI1802vickiearanha
+DI1802vickiearanha	DI1802julianacorrea
+DI1802vivianebonfim	DI1802joaosilva
+DI1802wagneragostinho	DI1802matheuscosta
+DI1802raphaelfelix	DI1802damonoliniski
+DI1802ericwada	DI1802nortonjunior
+DI1802renatafarago	matheusgoncalves
+DI1802evertonoliveira	DI1802julianacorrea
+DI1802matheusoliveira	DI1802vivianebonfim
+DI1802julianacorrea	DI1802evertonoliveira
+DI1802gabrielguerrero	DI1802giulianasilva
+DI1802heronfernandez	DI1802vivianebonfim
+DI1802vivianebonfim	DI1802raphaelfelix
+DI1802annabucharles	DI1802cassiomorales
+DI1802ericwada	DI1802tiagoplakitca
+DI1802lucasribeiro	DI1802leonardoreis
+DI1802tiagoplakitca	DI1802evertonoliveira
+DI1802tasipasin	DI1802henriqueoliveira
+DI1802evertonoliveira	DI1802annabucharles
+DI1802wagneragostinho	DI1802pedrosplendore
+DI1802nicolebotine	DI1802renatafarago
+DI1802giulianasilva	DI1802gabrielguerrero
+DI1802mateusgomes	DI1802annabucharles
+DI1802viniciusbernert	DI1802annabucharles
+DI1802pedrosplendore	DI1802wagneragostinho
+DI1802renatafarago	DI1802joaojorge
+DI1802pedrosplendore	DI1802heronfernandez
+DI1802victormenuzzo	DI1802paularodrigues
+DI1802lucasrech	DI1802annabucharles
+DI1802annabucharles	DI1802marcostholken
+DI1802juliopenha	DI1802tasipasin
+DI1802matheuscosta	DI1802giulianasilva
+DI1802francoisrueckert	DI1802alexandrematias
+DI1802matheuscosta	DI1802gabrielguerrero
+DI1802danielvieira	DI1802lucastakahashi
+DI1802lucastakahashi	DI1802paularodrigues
+DI1802annabucharles	DI1802tasipasin
+DI1802heronfernandez	DI1802pedrosplendore
+DI1802danielvieira	DI1802victormenuzzo
+DI1802damonoliniski	DI1802pedrosplendore
+DI1802julianacorrea	DI1802vickiearanha
+DI1802joaoborges	DI1802cassiomorales
+DI1802tasipasin	DI1802annabucharles
+DI1802paularodrigues	DI1802danielvieira
+DI1802vivianebonfim	DI1802ericwada
+DI1802heronfernandez	DI1802damonoliniski
+DI1802tiagoplakitca	DI1802nicolebotine
+DI1802marcostholken	DI1802pedrosplendore
+DI1802matheusoliveira	DI1802damonoliniski
+DI1802raphaelfelix	DI1802matheuscosta
+DI1802ericwada	DI1802joaosilva
+DI1802wagneragostinho	DI1802damonoliniski
+DI1802gabrielguerrero	DI1802leonardoreis
+DI1802annabucharles	DI1802nortonjunior
+DI1802lucasribeiro	DI1802gabrielguerrero
+DI1802matheuscosta	DI1802raphaelfelix
+DI1802nortonjunior	DI1802evertonoliveira
+DI1802cassiomorales	DI1802joaoborges
+DI1802juliopenha	DI1802giulianasilva
+DI1802leonardoreis	DI1802lucasribeiro
+DI1802matheuscosta	DI1802tasipasin
+DI1802giulianasilva	DI1802lucasnolasco
+DI1802giulianasilva	DI1802marcostholken
+DI1802giulianasilva	DI1802leonardoreis
+DI1802alexandrematias	DI1802wagneragostinho
+DI1802marcostholken	DI1802annabucharles
+DI1802ericwada	DI1802heronfernandez
+DI1802julianacorrea	DI1802tiagoplakitca
+DI1802ericwada	DI1802matheusoliveira
+DI1802matheuscosta	DI1802lucasnolasco
+DI1802ericwada	DI1802wagneragostinho
+DI1802vivianebonfim	DI1802giulianasilva
+DI1802damonoliniski	DI1802francoisrueckert
+DI1802matheuscosta	DI1802leonardoreis
+DI1802matheusoliveira	DI1802francoisrueckert
+DI1802alexandrematias	DI1802matheusoliveira
+DI1802lucastakahashi	DI1802danielvieira
+DI1802matheuscosta	DI1802matheusoliveira
+DI1802matheuscosta	DI1802heronfernandez
+DI1802pedrosplendore	DI1802giulianasilva
+DI1802lucasnolasco	DI1802matheuscosta
+DI1802joaosilva	DI1802damonoliniski
+DI1802alexandrematias	DI1802marcostholken
+DI1802alexandrematias	DI1802lucasnolasco
+DI1802matheuscosta	DI1802wagneragostinho
+DI1802lucasrech	matheusgoncalves
+DI1802giulianasilva	DI1802matheusoliveira
+DI1802nortonjunior	DI1802raphaelfelix
+DI1802giulianasilva	DI1802heronfernandez
+DI1802leonardoreis	DI1802matheuscosta
+DI1802tiagoplakitca	DI1802ericwada
+DI1802evertonoliveira	matheusgoncalves
+DI1802victormenuzzo	DI1802danielvieira
+DI1802giulianasilva	DI1802wagneragostinho
+DI1802marcostholken	DI1802alexandrematias
+DI1802nicolebotine	DI1802tiagoplakitca
+DI1802gabrielguerrero	DI1802wagneragostinho
+DI1802francoisrueckert	DI1802damonoliniski
+DI1802nortonjunior	DI1802renatafarago
+DI1802tasipasin	DI1802matheuscosta
+DI1802ericwada	DI1802raphaelfelix
+DI1802julianacorrea	DI1802rafaelcarvalho
+DI1802nortonjunior	DI1802marcostholken
+DI1802raphaelfelix	DI1802vivianebonfim
+DI1802cassiomorales	DI1802annabucharles
+DI1802lucasnolasco	DI1802alexandrematias
+DI1802leonardoreis	DI1802lucasnolasco
+DI1802joaosilva	DI1802juliopenha
+DI1802annabucharles	DI1802viniciusbernert
+DI1802joaojorge	DI1802nicolebotine
+matheusgoncalves	DI1802renatafarago
+DI1802steventunnicliff	DI1802vickiearanha
+DI1802matheuscosta	DI1802vivianebonfim
+DI1802wagneragostinho	DI1802ericwada
+DI1802tasipasin	DI1802raphaelfelix
+DI1802raphaelfelix	DI1802joaosilva
+DI1802rafaelcarvalho	DI1802julianacorrea
+DI1802tasipasin	DI1802cassiomorales
+DI1802matheusoliveira	DI1802ericwada
+DI1802steventunnicliff	DI1802lincolnbatista
+DI1802damonoliniski	DI1802ericwada
+DI1802matheuscosta	DI1802lucasribeiro
+DI1802alexandrematias	DI1802joaoborges
+DI1802heronfernandez	DI1802ericwada
+DI1802paularodrigues	DI1802victormenuzzo
+DI1802paularodrigues	DI1802lucastakahashi
+DI1802alexandrematias	DI1802matheuscosta
+DI1802vickiearanha	DI1802nicolebotine
+DI1802giulianasilva	DI1802vivianebonfim
+DI1802marcostholken	DI1802tasipasin
+DI1802lucasnolasco	DI1802leonardoreis
+DI1802damonoliniski	DI1802giulianasilva
+DI1802wagneragostinho	DI1802gabrielguerrero
+DI1802marcostholken	DI1802raphaelfelix
+DI1802matheusoliveira	DI1802giulianasilva
+DI1802giulianasilva	DI1802pedrosplendore
+DI1802heronfernandez	DI1802giulianasilva
+DI1802nicolebotine	DI1802joaojorge
+DI1802evertonoliveira	DI1802nortonjunior
+DI1802joaojorge	DI1802tiagoplakitca
+DI1802viniciusbernert	DI1802nortonjunior
+DI1802ericwada	DI1802alexandrematias
+DI1802matheuscosta	DI1802pedrosplendore
+DI1802tasipasin	DI1802marcostholken
+DI1802raphaelfelix	DI1802matheusoliveira
+DI1802raphaelfelix	DI1802heronfernandez
+DI1802damonoliniski	DI1802gabrielguerrero
+DI1802wagneragostinho	DI1802giulianasilva
+DI1802gabrielguerrero	DI1802lucasribeiro
+DI1802nortonjunior	DI1802annabucharles
+DI1802joaoborges	DI1802alexandrematias
+DI1802francoisrueckert	DI1802giulianasilva
+DI1802giulianasilva	DI1802alexandrematias
+DI1802alexandrematias	DI1802pedrosplendore
+DI1802raphaelfelix	DI1802marcostholken
+DI1802evertonoliveira	DI1802tiagoplakitca
+DI1802victormenuzzo	DI1802lucastakahashi
+DI1802gabrielguerrero	DI1802matheuscosta
+DI1802danielvieira	DI1802paularodrigues
+DI1802renatafarago	DI1802lucasrech
+DI1802raphaelfelix	DI1802tasipasin
+DI1802cassiomorales	DI1802tasipasin
+DI1802renatafarago	DI1802evertonoliveira
+DI1802matheuscosta	DI1802alexandrematias
+DI1802joaosilva	DI1802ericwada
+DI1802lucastakahashi	DI1802victormenuzzo
+DI1802lucasnolasco	DI1802matheusoliveira
+DI1802evertonoliveira	DI1802nicolebotine
+DI1802tiagoplakitca	DI1802joaojorge
+DI1802pedrosplendore	DI1802damonoliniski
+DI1802lucasnolasco	DI1802wagneragostinho
+DI1802renatafarago	DI1802vickiearanha
+DI1802renatafarago	DI1802lincolnbatista
+DI1802giulianasilva	DI1802matheuscosta
+DI1802nicolebotine	matheusgoncalves
+DI1802ericwada	DI1802vivianebonfim
+matheusgoncalves	DI1802lucasrech
+matheusgoncalves	DI1802evertonoliveira
+DI1802marcostholken	DI1802heronfernandez
+DI1802matheusoliveira	DI1802wagneragostinho
+DI1802damonoliniski	DI1802wagneragostinho
+DI1802lucasribeiro	DI1802matheuscosta
+DI1802renatafarago	DI1802nicolebotine
+DI1802evertonoliveira	DI1802vickiearanha
+DI1802heronfernandez	DI1802wagneragostinho
+DI1802vickiearanha	DI1802steventunnicliff
+DI1802heronfernandez	DI1802matheusoliveira
+DI1802matheusoliveira	DI1802heronfernandez
+DI1802damonoliniski	DI1802heronfernandez
+DI1802tasipasin	DI1802juliopenha
+DI1802alexandrematias	DI1802francoisrueckert
+DI1802lincolnbatista	DI1802renatafarago
+DI1802damonoliniski	DI1802matheusoliveira
+DI1802wagneragostinho	DI1802heronfernandez
+DI1802wagneragostinho	DI1802matheusoliveira
+DI1802joaosilva	DI1802raphaelfelix
+DI1802nortonjunior	DI1802viniciusbernert
+DI1802evertonoliveira	DI1802lincolnbatista
+DI1802tiagoplakitca	DI1802julianacorrea
+DI1802pedrosplendore	DI1802vivianebonfim
+DI1802joaojorge	DI1802renatafarago
+matheusgoncalves	DI1802nicolebotine
+DI1802raphaelfelix	DI1802ericwada
+DI1802damonoliniski	DI1802joaosilva
+DI1802heronfernandez	DI1802joaosilva
+DI1802vivianebonfim	DI1802matheuscosta
+DI1802lucasrech	DI1802mateusgomes
+DI1802raphaelfelix	DI1802nortonjunior
+DI1802ericwada	DI1802damonoliniski
+DI1802mateusgomes	DI1802lucasrech
+DI1802vickiearanha	DI1802renatafarago
+DI1802alexandrematias	DI1802damonoliniski
+DI1802lincolnbatista	DI1802steventunnicliff
+DI1802henriqueoliveira	DI1802tasipasin
+DI1802matheuscosta	DI1802damonoliniski
+DI1802lucasrech	DI1802renatafarago
+DI1802joaosilva	DI1802heronfernandez
+DI1802renatafarago	DI1802nortonjunior
+DI1802leonardoreis	DI1802gabrielguerrero
+DI1802evertonoliveira	DI1802renatafarago
+DI1802lucasnolasco	DI1802giulianasilva
+DI1802pedrosplendore	DI1802matheuscosta
+DI1802vickiearanha	DI1802evertonoliveira
+DI1802giulianasilva	DI1802damonoliniski
+DI1802damonoliniski	DI1802raphaelfelix
+DI1802marcostholken	DI1802giulianasilva
+DI1802matheusoliveira	DI1802raphaelfelix
+DI1802heronfernandez	DI1802raphaelfelix
+DI1802leonardoreis	DI1802giulianasilva
+DI1802giulianasilva	DI1802francoisrueckert
+DI1802vivianebonfim	DI1802pedrosplendore
+DI1802wagneragostinho	DI1802lucasnolasco
+DI1802gabrielguerrero	DI1802damonoliniski
+DI1802francoisrueckert	DI1802matheusoliveira
+DI1802heronfernandez	DI1802marcostholken
+DI1802pedrosplendore	DI1802alexandrematias
+DI1802lincolnbatista	DI1802evertonoliveira
+DI1802matheusoliveira	DI1802lucasnolasco
+DI1802henriqueoliveira	DI1802cassiomorales
+DI1802marcostholken	DI1802nortonjunior
+
+
+
+
+
+Questao 5
+Aperte o numero do exercicio desejado (1 - 10): 
+pessoa1				pessoa2
+DI1802lucasribeiro	DI1802leonardoreis
+DI1802leonardoreis	DI1802lucasribeiro
+
+
+
+
+
+Questao 6
+Aperte o numero do exercicio desejado (1 - 10): 
+Daniel :3
+Shoiti :3
+Victor :3
+
+
+
+
+
+Questao 7
+Aperte o numero do exercicio desejado (1 - 10): 
+	1---5----10----15----20	(filmes)
+3	**
+4	**
+6	***
+7	***************
+8	****
+9	****
+10	*
+11	*
+12	*
+13	**
+14	*
+15	*
+pessoas
+
+
+
+
+
+Questao 8
+Aperte o numero do exercicio desejado (1 - 10): 
+	1---5----10----15----20	(pessoas)
+3	**
+4	**
+6	***
+7	***************
+8	****
+9	****
+10	*
+11	*
+12	*
+13	**
+14	*
+15	*
+filmes
+
+
+
+
+
+Questao 9
+Aperte o numero do exercicio desejado (1 - 10): 
+retorna as pessoas que conhecem mais pessoas:
+pessoa				conhecidos
+DI1802matheuscosta	14
+DI1802giulianasilva	14
+
+
+
+
+
+Questao 10
+Aperte o numero do exercicio desejado (1 - 10): 
+retorna o numero de pessoas pertencentes a cada cidade:
+cidade natal				n de pessoas
+Curitiba				17
+São Paulo				6
+				4
+Pinhais				2
+Maringá				1
+São Vicente				1
+Miranda - MS				1
+Limeira				1
+CURITIBA				1
+São José				1
+Guarapuava				1
+Uberaba				1
+Arapongas				1
+Campina Grande do Sul				1
+Blumenau, SC				1
+Petrópolis				1
+Curitiba - PR				1
+Londrina				1
+Bragança Paulista				1
+Telêmaco Borba				1
+
+
+
+
+
+FIM 
+Aperte o numero do exercicio desejado (1 - 10): 

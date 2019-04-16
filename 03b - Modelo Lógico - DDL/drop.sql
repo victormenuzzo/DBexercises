@@ -1,0 +1,16 @@
+DROP TABLE Pessoa;
+DROP TABLE ArtistasMusicais;
+DROP TABLE Diretor;
+DROP TABLE Filme;
+DROP TABLE Ator;
+DROP TABLE AtorFilme;
+DROP TABLE GostaPessoaFilme;
+DROP TABLE AvaliaPessoaFilme;
+DROP TABLE Bloqueia;
+DROP TABLE Musico;
+DROP TABLE Cantor;
+DROP TABLE Banda;
+DROP TABLE BandaPossuiMusico;
+DROP TABLE PessoaConhecePessoa;
+DROP TABLE PessoaGostaArtistasMusicais;
+DROP TABLE AvaliaPessoaArtistasMusicais;
